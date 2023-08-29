@@ -1,0 +1,14 @@
+.app {
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    margin: 50px;
+}
+
+.gallery {
+    list-style: none;
+    padding: 0;
+}
+
+.gallery li {
+    margin: 10px 0;
+}

@@ -1,0 +1,16 @@
+{
+  "name": "all_tech",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "npm start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Frank Cervantes",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^0.0.0-experimental-456d153bb-20230828",
+    "react-dom": "^0.0.0-experimental-456d153bb-20230828"
+  }
+}
